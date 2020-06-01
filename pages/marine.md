@@ -10,7 +10,7 @@ Microbiology
 The study of microorganisms, such as bacteria, viruses, protozoa and algae, is conducted for numerous reasons. One example is to understand what role microorganisms play in marine ecosystems.
 <hr>
 
-<img src="oceanography.jpg" width="500px" height="300px">
+
 
 <hr>
 
